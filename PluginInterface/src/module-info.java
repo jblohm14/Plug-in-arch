@@ -4,7 +4,6 @@
 /**
  * 
  */
-module PluginInterface {
-    exports plugininterface;
-
+module pluginimpl {
+    requires PluginInterface; 
 }

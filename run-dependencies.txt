@@ -1,0 +1,1 @@
+Plugins/PixelPlugin.jar:Plugins/XiaomiPlugin.jar:Plugins/GalaxyPlugin.jar:Plugins/OnePlusPlugin.jar:Plugins/iPhonePlugin.jar

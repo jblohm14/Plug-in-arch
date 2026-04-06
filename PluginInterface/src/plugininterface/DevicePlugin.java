@@ -1,6 +1,8 @@
 package plugininterface;
 
 public interface DevicePlugin {
-    void assess();
 
+    boolean supports(String deviceName);
+    
+    void assess();
 }
